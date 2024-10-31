@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CPU_mini_color</key>
+	<string>utilization</string>
+	<key>CPU_processes</key>
+	<integer>0</integer>
+	<key>CPU_updateInterval</key>
+	<integer>5</integer>
+	<key>CPU_updateTopInterval</key>
+	<integer>60</integer>
+	<key>CombinedModules</key>
+	<true/>
+	<key>Disk_disk</key>
+	<string>Macintosh HD</string>
+	<key>Disk_processes</key>
+	<integer>0</integer>
+	<key>GPU_mini_color</key>
+	<string>utilization</string>
+	<key>GPU_state</key>
+	<true/>
+	<key>GPU_updateInterval</key>
+	<integer>5</integer>
+	<key>NSWindow Frame NSNavPanelAutosaveName</key>
+	<string>813 859 430 163 0 0 2056 1285 </string>
+	<key>Network_base</key>
+	<string>byte</string>
+	<key>Network_processes</key>
+	<integer>0</integer>
+	<key>Network_reader</key>
+	<string>interface</string>
+	<key>Network_speed_displayValue</key>
+	<string>oi</string>
+	<key>Network_speed_icon</key>
+	<string>arrows</string>
+	<key>Network_speed_iconAlignment</key>
+	<string>left</string>
+	<key>Network_speed_iconColor</key>
+	<string>default</string>
+	<key>Network_speed_mode</key>
+	<string>twoRows</string>
+	<key>Network_speed_monochrome</key>
+	<false/>
+	<key>Network_speed_units</key>
+	<true/>
+	<key>Network_speed_value</key>
+	<true/>
+	<key>Network_speed_valueAlignment</key>
+	<string>right</string>
+	<key>Network_speed_valueColor</key>
+	<string>default</string>
+	<key>RAM_mini_color</key>
+	<string>utilization</string>
+	<key>RAM_processes</key>
+	<integer>0</integer>
+	<key>RAM_updateInterval</key>
+	<integer>5</integer>
+	<key>RAM_updateTopInterval</key>
+	<integer>60</integer>
+	<key>SSD_mini_color</key>
+	<string>utilization</string>
+	<key>Sensor_mini_color</key>
+	<string>utilization</string>
+	<key>Sensors_sensor</key>
+	<string>Hottest CPU</string>
+	<key>Sensors_state</key>
+	<true/>
+	<key>Sensors_updateInterval</key>
+	<integer>10</integer>
+	<key>runAtLoginInitialized</key>
+	<true/>
+	<key>sensor_Hottest CPU</key>
+	<true/>
+	<key>setupProcess</key>
+	<true/>
+	<key>telemetry</key>
+	<false/>
+	<key>update-interval</key>
+	<string>Once per week</string>
+	<key>updater_check_ts</key>
+	<integer>1730366744</integer>
+	<key>version</key>
+	<string>2.11.16</string>
+</dict>
+</plist>

@@ -36,6 +36,7 @@
         "/System/Applications/Calculator.app"
         "/System/Applications/App Store.app"
         "/System/Applications/System Settings.app"
+        "/System/Applications/Utilities/Activity Monitor.app"
       ];
     };
   };

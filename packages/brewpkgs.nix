@@ -34,6 +34,7 @@
       "aldente"
       "karabiner-elements"
       "keka"
+      "kekaexternalhelper"
       
       # fonts
       "font-fira-code"

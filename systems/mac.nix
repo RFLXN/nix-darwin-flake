@@ -4,6 +4,18 @@
       AutomaticallyInstallMacOSUpdates = false;
     };
 
+    NSGlobalDomain = {
+      AppleShowAllExtensions = true;
+      AppleShowAllFiles = true;
+    };
+
+    finder = {
+      AppleShowAllExtensions = true;
+      AppleShowAllFiles = true;
+      ShowPathbar = true;
+      ShowStatusBar = true;
+    };
+
     loginwindow = {
       GuestEnabled = false;
       ShutDownDisabled = false;

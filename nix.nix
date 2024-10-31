@@ -23,7 +23,6 @@
     package = pkgs.nix;
   };
 
-  environment.variables.EDITOR = "nano";
   services.nix-daemon.enable = true;
 
   nixpkgs = {

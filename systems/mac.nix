@@ -4,9 +4,34 @@
       AutomaticallyInstallMacOSUpdates = false;
     };
 
+    CustomUserPreferences = {
+      "com.apple.screencapture" = {
+        disable-shadow = true;
+      };
+
+      "com.apple.menuextra.clock" = {
+        DateFormat = "d MMM EEE a h:mm:ss";
+        IsAnalog = false;
+      };
+
+      "com.apple.HIToolbox" = {
+        AppleFnUsageType = 0;
+      };
+    };
+
     NSGlobalDomain = {
+      AppleInterfaceStyle = "Dark";
+      AppleInterfaceStyleSwitchesAutomatically = false;
       AppleShowAllExtensions = true;
       AppleShowAllFiles = true;
+      NSDocumentSaveNewDocumentsToCloud = false;
+      NSTableViewDefaultSizeMode = 2;
+      NSAutomaticCapitalizationEnabled = false;
+      NSAutomaticDashSubstitutionEnabled = false;
+      NSAutomaticPeriodSubstitutionEnabled = false;
+      NSAutomaticQuoteSubstitutionEnabled = false;
+      NSAutomaticSpellingCorrectionEnabled = false;
+      "com.apple.keyboard.fnState" = true;
     };
 
     finder = {
@@ -14,6 +39,8 @@
       AppleShowAllFiles = true;
       ShowPathbar = true;
       ShowStatusBar = true;
+      _FXSortFoldersFirst = true;
+      FXEnableExtensionChangeWarning = true;
     };
 
     loginwindow = {

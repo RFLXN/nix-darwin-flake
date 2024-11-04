@@ -35,6 +35,8 @@
     docker
     docker-client
     colima
+
+    pkg-config
     
     bashInteractive
     bzip2

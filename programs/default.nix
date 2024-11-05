@@ -5,5 +5,6 @@
     ./kitty
     ./linearmouse
     ./libssl.nix
+    ./vscode.nix
   ];
 }

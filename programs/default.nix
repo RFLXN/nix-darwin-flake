@@ -4,5 +4,6 @@
     ./shells
     ./kitty
     ./linearmouse
+    ./libssl.nix
   ];
 }

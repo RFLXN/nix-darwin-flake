@@ -31,12 +31,19 @@
     python3
     jdk22
 
+    # rust tools
+    wasm-pack
+    cargo-generate
+
     # docker
     docker
     docker-client
     colima
 
     pkg-config
+    openssl
+    openssl.dev
+    zlib
     
     bashInteractive
     bzip2

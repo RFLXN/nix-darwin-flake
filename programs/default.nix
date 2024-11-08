@@ -6,5 +6,6 @@
     ./linearmouse
     ./libssl.nix
     ./vscode.nix
+    ./jetbrains
   ];
 }

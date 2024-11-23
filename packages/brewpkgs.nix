@@ -32,6 +32,7 @@
       "linearmouse"
       "stats"
       "aldente"
+      "alt-tab"
       "karabiner-elements"
       "keka"
       "kekaexternalhelper"

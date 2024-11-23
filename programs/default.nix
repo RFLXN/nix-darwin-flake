@@ -1,10 +1,10 @@
 { ... }: {
   imports = [
+    ./brew.nix
     ./git.nix
     ./shells
     ./kitty
     ./linearmouse
-    ./libssl.nix
     ./vscode.nix
     ./jetbrains
   ];

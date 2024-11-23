@@ -2,6 +2,7 @@
   environment.systemPackages = with pkgs; [
     # git
     git
+    git-lfs
     gh
 
     # zsh
@@ -24,9 +25,14 @@
     inetutils
 
     # languages
+    llvm_18
+    llvm_18.dev
+    clang_18
+    cmake
+    ninja
     rustc
     rustup
-    nodejs_22
+    nodejs_18
     yarn
     python3
     jdk22
@@ -40,10 +46,11 @@
     docker-client
     colima
 
-    pkg-config
-    openssl
-    openssl.dev
-    zlib
+    # build dependencies (libs)
+    # pkg-config
+    # openssl
+    # openssl.dev
+    # zlib
     
     bashInteractive
     bzip2

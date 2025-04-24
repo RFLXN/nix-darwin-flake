@@ -33,8 +33,10 @@
     rustc
     rustup
     nodejs_18
+    deno
     yarn
     python3
+    poetry
     jdk22
 
     # rust tools
@@ -46,11 +48,14 @@
     docker-client
     colima
 
-    # build dependencies (libs)
-    # pkg-config
-    # openssl
-    # openssl.dev
-    # zlib
+    # k8s
+    kubectl
+    minikube
+
+    # documentation
+    typst
+
+    ffmpeg
     
     bashInteractive
     bzip2

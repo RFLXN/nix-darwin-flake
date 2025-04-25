@@ -24,9 +24,10 @@
     # networking
     inetutils
 
-    # rust tools
-    wasm-pack
-    cargo-generate
+    # languages
+    fnm # for node.js
+    uv  # for python
+    python314
 
     # docker
     docker

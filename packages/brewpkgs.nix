@@ -43,9 +43,6 @@
       "intellij-idea"
       "visual-studio-code"
 
-      # docs
-      "bibdesk"
-
       # etc.
       "microsoft-edge"
       "spotify"

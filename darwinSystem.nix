@@ -15,13 +15,16 @@ inputs.nix-darwin.lib.darwinSystem {
 
   modules = [
     inputs.home-manager.darwinModules.home-manager
-    channel.nix-homebrew.darwinModules.nix-homebrew
+    inputs.nix-homebrew.darwinModules.nix-homebrew
     {
       nix-homebrew = {
         enable = true;
         enableRosetta = true;
         user = username;
-        autoMigrate = true;
+        taps = {
+          "homebrew/homebrew-core" = inputs.homebrew-core;
+          "homebrew/homebrew-cask" = inputs.homebrew-cask;
+        };
       };
     }
   ] ++ modules;

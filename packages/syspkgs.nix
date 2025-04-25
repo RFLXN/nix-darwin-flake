@@ -24,21 +24,6 @@
     # networking
     inetutils
 
-    # languages
-    llvm_18
-    llvm_18.dev
-    clang_18
-    cmake
-    ninja
-    rustc
-    rustup
-    nodejs_18
-    deno
-    yarn
-    python3
-    poetry
-    jdk22
-
     # rust tools
     wasm-pack
     cargo-generate
@@ -47,15 +32,6 @@
     docker
     docker-client
     colima
-
-    # k8s
-    kubectl
-    minikube
-
-    # documentation
-    typst
-
-    ffmpeg
     
     bashInteractive
     bzip2

@@ -20,10 +20,6 @@
 
     ];
 
-    taps = [
-
-    ];
-
     casks = [
       # terminals
       "kitty"
